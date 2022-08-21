@@ -16,6 +16,10 @@ body{
     max-height: 900px;
     margin: 0 auto;
     border:#b8a115 5px solid;
+    -webkit-user-select: none;  
+    -moz-user-select: none;    
+    -ms-user-select: none;      
+    user-select: none;
 }
 .title{
     order: 1;
@@ -36,6 +40,10 @@ body{
     cursor: pointer;
     box-shadow: inset 0 0 0 0 #ffffff;
     transition: ease-out 0.3s;
+    -webkit-user-select: none;  
+    -moz-user-select: none;    
+    -ms-user-select: none;      
+    user-select: none;
 }
 .text{
     text-align: center;
@@ -48,6 +56,10 @@ footer{
     text-align: center;
     line-height: 66px;
     color: #b8a115;
+    -webkit-user-select: none;  
+    -moz-user-select: none;    
+    -ms-user-select: none;      
+    user-select: none;
 }
 .box-link:hover{
     box-shadow: inset 323px 0 0 0 #b8a115
