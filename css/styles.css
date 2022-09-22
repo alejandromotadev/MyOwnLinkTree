@@ -76,6 +76,5 @@ img {
   user-select: none;
 }
 .button:hover {
-  box-shadow: inset 323px 0 0 0 #2f6a68;
   transform: scale(1.1);
 }
