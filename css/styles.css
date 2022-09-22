@@ -1,13 +1,13 @@
 @import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/cascadia-code.min.css");
 body {
-  background-color: #eb4657;
+  background-color: black;
 }
 * {
   font-family: "Cascadia Code", sans-serif;
   font-size: 32px;
 }
 .flex-container {
-  background-image: linear-gradient(to right, #2f6a68, #54bb9e);
+  background-color:black;
   display: flex;
   padding: 10px;
   flex-flow: column wrap;
